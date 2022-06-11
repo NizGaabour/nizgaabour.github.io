@@ -1,0 +1,19 @@
+.navbar-brand{
+	font-weight: bold;
+}
+html { 
+  background: url(https://img.freepik.com/free-photo/picnic-basket-park-grass_23-2148197000.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.navbar{
+	background-color: yellow;
+}
+.btn-primary{
+	background-color: green;
+}
+.btn-primary:hover{
+	background-color: red;
+}
